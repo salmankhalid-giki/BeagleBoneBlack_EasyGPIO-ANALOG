@@ -1,6 +1,5 @@
 
-
-1- This project is initiated to provide arduino like interface for accessing GPIO and  	  Analog Pins in Beagle Bone Black. Serial and I2C will be added later.
+1- This project is initiated to provide arduino like interface for accessing GPIO and Analog Pins in Beagle Bone Black. Serial and I2C will be added later.
 
 2- Compiled using compiler that comes with BBB "arm-angstrom-linux-gnueabi-g++"
 
