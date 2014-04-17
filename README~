@@ -1,0 +1,11 @@
+
+
+1- This project is initiated to provide arduino like interface for accessing GPIO and  	  Analog Pins in Beagle Bone Black. Serial and I2C will be added later.
+
+2- Compiled using compiler that comes with BBB "arm-angstrom-linux-gnueabi-g++"
+
+3- Example "arm-angstrom-linux-gnueabi-g++ analog_access.cpp accessor.cpp adc_test.cpp gpio_access.cpp"
+
+4- Test Program Sourcefile is also attached
+
+5- Any question contact me at sallu.salmankhalid@gmail.com
